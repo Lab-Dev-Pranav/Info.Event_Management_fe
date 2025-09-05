@@ -1,4 +1,5 @@
 # SAI EVENTS & FLAMES [FrontEnd]
+https://lab-dev-pranav.github.io/Info.Event_Management_fe/
 
 A responsive event management website built using **HTML**, **CSS**, and **JavaScript**. This is my first and oldest project, designed to showcase the services, team, and contact details for SAI EVENTS & FLAMES.
 
